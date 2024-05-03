@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187709352042",
+    "project_id": "potato-project-1725f",
+    "storage_bucket": "potato-project-1725f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187709352042:android:8e21f8fc3ffecb46468213",
+        "android_client_info": {
+          "package_name": "com.example.potatodiseasemobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlEcCoCdzrDaCHJt_t0v0cSgUHA_8QMlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

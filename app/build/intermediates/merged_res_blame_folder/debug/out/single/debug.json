@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\drawable_logo1.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\drawable\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\drawable-v24_cam.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\drawable-v24\\cam.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\drawable-v24_logo2.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\drawable-v24\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.potatodiseasemobileapp-merged_res-33:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.potatodiseasemobileapp-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\drawable-v24_ic_password.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\drawable-v24\\ic_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\drawable_logo.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\drawable-v24_ic_full_name.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\drawable-v24\\ic_full_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\drawable-v24_whitecircle.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\drawable-v24\\whitecircle.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\drawable_login.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-pngs-28:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\drawable-v24_logo1.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\drawable-v24\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\drawable-v24_cropsol_icon.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\drawable-v24\\cropsol_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\font_abel.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\font\\abel.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\drawable-v24_ic_person.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\drawable-v24\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\drawable-v24_ic_phone.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\drawable-v24\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\drawable-v24_camera.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\drawable-v24\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\font_calistoga.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\font\\calistoga.xml"
+    },
+    {
+        "merged": "com.example.potatodiseasemobileapp-merged_res-33:/xml_backup_rules.xml.flat",
+        "source": "com.example.potatodiseasemobileapp-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\drawable-v24_ic_email.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\drawable-v24\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\layout_activity_detect_page.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\layout\\activity_detect_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.3.3\\com.example.potatodiseasemobileapp-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    }
+]

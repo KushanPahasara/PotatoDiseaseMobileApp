@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">187709352042</string>
+    <string name="google_api_key" translatable="false">AIzaSyAlEcCoCdzrDaCHJt_t0v0cSgUHA_8QMlc</string>
+    <string name="google_app_id" translatable="false">1:187709352042:android:8e21f8fc3ffecb46468213</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAlEcCoCdzrDaCHJt_t0v0cSgUHA_8QMlc</string>
+    <string name="google_storage_bucket" translatable="false">potato-project-1725f.appspot.com</string>
+    <string name="project_id" translatable="false">potato-project-1725f</string>
+</resources>
